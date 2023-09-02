@@ -55,7 +55,7 @@ return [
     'change' 		        => 'In/Out',
     'changeemail'  			=> 'Change Email Address',
     'changepassword'  		=> 'Change Password',
-    'checkin'  				=> 'Checkin',
+    'checkin'  				=> 'Assign',
     'checkin_from'  		=> 'Checkin from',
     'checkout'  			=> 'Checkout',
     'checkouts_count'       => 'Checkouts',
